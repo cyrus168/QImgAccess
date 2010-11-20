@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/main_toolbar">
+        <file>res/zoomin.png</file>
+        <file>res/zoomout.png</file>
+        <file>res/about_kde.png</file>
+    </qresource>
+</RCC>
